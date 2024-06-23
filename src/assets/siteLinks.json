@@ -1,37 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "路由器",
+    "link": "http://kisaki.icu:88"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "http://kisaki.icu:81"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "面板",
+    "link": "http://kisaki.icu:83"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Compass",
+    "name": "面板(HK)",
+    "link": "http://my.kisaki.icu:6543"
+  },
+  {
+    "icon": "Compass",
+    "name": "面板(HK2)",
+    "link": "http://home.kisaki.icu:3434"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "qBittorrent",
+    "link": "http://kisaki.icu:82/"
   }
 ]
