@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "路由器",
-    "link": "http://kisaki.icu:88"
+    "link": "http://kisaki.icu:3000"
   },
   {
     "icon": "Cloud",
@@ -11,8 +11,8 @@
   },
   {
     "icon": "Compass",
-    "name": "面板",
-    "link": "http://kisaki.icu:83"
+    "name": "群晖",
+    "link": "http://kisaki.icu:100"
   },
   {
     "icon": "Compass",
