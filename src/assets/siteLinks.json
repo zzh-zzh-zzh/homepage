@@ -1,32 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "路由器",
+    "name": "Router",
     "link": "http://kisaki.icu:3000"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "http://kisaki.icu:81"
+    "link": "https://kisaki.icu:81"
   },
   {
     "icon": "Compass",
-    "name": "群晖",
+    "name": "面板",
     "link": "http://kisaki.icu:100"
   },
   {
     "icon": "Compass",
     "name": "面板(HK)",
-    "link": "http://my.kisaki.icu:6543"
+    "link": "https://my.kisaki.icu:30000/kivotos"
   },
   {
     "icon": "Compass",
     "name": "面板(HK2)",
-    "link": "http://home.kisaki.icu:3434"
+    "link": "https://home.kisaki.icu:30000/kivotos"
   },
   {
     "icon": "Fire",
     "name": "qBittorrent",
-    "link": "http://kisaki.icu:82/"
+    "link": "https://kisaki.icu:82/"
   }
 ]
