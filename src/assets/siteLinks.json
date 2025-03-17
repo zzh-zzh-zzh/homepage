@@ -7,12 +7,12 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://kisaki.icu:81"
+    "link": "https://alist.kisaki.icu"
   },
   {
     "icon": "Compass",
     "name": "面板",
-    "link": "https://kisaki.icu:100"
+    "link": "https://panel.kisaki.icu"
   },
   {
     "icon": "Compass",
@@ -22,11 +22,11 @@
   {
     "icon": "Compass",
     "name": "面板(HK2)",
-    "link": "https://home.kisaki.icu:30000/kivotos"
+    "link": "https://hk2.kisaki.icu:30000/kivotos"
   },
   {
     "icon": "Fire",
     "name": "qBittorrent",
-    "link": "http://kisaki.icu:82/"
+    "link": "http://qbit.kisaki.icu"
   }
 ]
